@@ -62,5 +62,5 @@ The issue number can be found in the lower righthand corner of the issue on the 
 JIT, or Just in Time documentation will allow us to begin moving forward with the development of the app immediately while refining the requirements along the way.
 
 ## NOTES
-**10/15/2021:** Everything presented here are just suggestions.  The goal is to research, exercise, and gain mastery of everything we are using while creating a viable app.
+**10/15/2021:** The things presented here are just suggestions.  The goal is to research, exercise, and gain mastery of everything we are using while creating a viable app.
 
