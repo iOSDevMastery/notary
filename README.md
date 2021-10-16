@@ -51,8 +51,8 @@ Several epics have been identified in the Jira workflow that will hopefully be a
 ### XCODE
 Use code folding to keep code files clean and easy to navigate.
 Add Mark lies to improve readability
-Some insights about Mark lines:
-https://www.avanderlee.com/xcode/xcode-mark-line-comment/
+Some insights about Mark lines:  
+[Xcode Mark lines](https://www.avanderlee.com/xcode/xcode-mark-line-comment/)
 
 ### GITHUB REPOSITORY, BRANCHING, AND COMMITS
 Branch names and commit messages should include the issue number of the task that the code relates to so that it shows up in Jira.
@@ -62,5 +62,5 @@ The issue number can be found in the lower righthand corner of the issue on the 
 JIT, or Just in Time documentation will allow us to begin moving forward with the development of the app immediately while refining the requirements along the way.
 
 ## NOTES
-**10/15/2021:** The things presented here are just suggestions.  The goal is to research, exercise, and gain mastery of everything we are using while creating a viable app.
+**10/15/2021:** Everything presented here are just suggestions.  The goal is to research, exercise, and gain mastery of everything we are using while creating a viable app.
 
