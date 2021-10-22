@@ -51,10 +51,10 @@ Several epics have been identified in the Jira workflow that will hopefully be a
 ### XCODE
 - Use code folding to keep code files clean and easy to navigate.
 - Add Mark lies to improve readability
-- Some insights about Mark lines:  
-	[Xcode Mark lines](https://www.avanderlee.com/xcode/xcode-mark-line-comment/)
+- Some insights about Mark lines: [Xcode Mark lines](https://www.avanderlee.com/xcode/xcode-mark-line-comment/)
 
 ### TESTING
+- Test Driven Developement will be used with the developement of this project.
 
 
 ### GITHUB REPOSITORY, BRANCHING, AND COMMITS
